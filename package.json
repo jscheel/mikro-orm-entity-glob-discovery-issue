@@ -1,0 +1,17 @@
+{
+  "name": "mikro-entity-issue",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "start": "tsx script.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.24.0",
+  "dependencies": {
+    "@mikro-orm/core": "^7.0.3",
+    "@mikro-orm/sqlite": "^7.0.3"
+  }
+}
